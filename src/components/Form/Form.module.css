@@ -1,0 +1,10 @@
+.container {
+  align-items: center;
+  display: flex;
+  height: 30vh;
+  justify-content: center;
+}
+
+.button {
+  /* background-color: aqua; */
+}

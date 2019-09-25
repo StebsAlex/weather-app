@@ -1,0 +1,12 @@
+.banner {
+  font-size: 50px;
+  height: 16vh;
+  background-image: linear-gradient(rgb(177, 207, 206, 0.514), rgba(177, 207, 206, 0.514)),
+                  url(/static/media/Cumulus_clouds_panorama.588be8b0.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
